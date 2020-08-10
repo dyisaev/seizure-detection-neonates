@@ -1,4 +1,3 @@
-# seizure-detection-neonates
 ## Attention-Based Network for Weak Labels in Neonatal Seizure Detection
 
 Dmitry Yu Isaev (Duke University); Dmitry Tchapyjnikov (Duke University); MIchael Cotten (Duke University); David Tanaka (Duke University); Natalia L Martinez (Duke University); Martin A Bertran (Duke University); Guillermo Sapiro (Duke University); David Carlson (Duke University)
